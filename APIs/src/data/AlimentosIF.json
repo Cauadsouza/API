@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "Nome": "Suco de Goiaba",
+        "Nome": "Suco de goiaba",
         "Calorias": 62,
         "Gordura": 0.1,
         "Sodio": 0.3,
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "Nome": "Suco de Manga",
+        "Nome": "Suco de manga",
         "Calorias": 51,
         "Gordura": 0.1,
         "Sodio": 5,
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "Nome": "Suco de Limão",
+        "Nome": "Suco de limão",
         "Calorias": 47,
         "Gordura": 0,
         "Sodio": 38,
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "Nome": "Suco de Uva",
+        "Nome": "Suco de uva",
         "Calorias": 58,
         "Gordura": 0,
         "Sodio": 10,
@@ -101,7 +101,7 @@
     },
     {
         "id": 11,
-        "Nome": "Suco de Laranja",
+        "Nome": "Suco de laranja",
         "Calorias": 42,
         "Gordura": 0.1,
         "Sodio": 2,
@@ -201,7 +201,7 @@
     },
     {
         "id":  21,
-        "Nome": "Cachorro quente",
+        "Nome": "Cachorro-quente",
         "Calorias": 272,
         "Gordura": 5.8,
         "Sodio": 868,
@@ -231,7 +231,7 @@
     },
     {
         "id": 24,
-        "Nome": "Hamburque",
+        "Nome": "Hambúrguer",
         "Calorias": 267,
         "Gordura": 9.5,
         "Sodio": 473,

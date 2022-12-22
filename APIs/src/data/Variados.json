@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "Nome": "Hamburque",
+        "Nome": "Hambúrguer",
         "Calorias": 267,
         "Gordura": 9.5,
         "Sodio": 473,
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "Nome": "Empada de frango",
+        "Nome": "Empada",
         "Calorias": 377,
         "Gordura": 23,
         "Sodio": 771,
